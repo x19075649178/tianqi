@@ -1,0 +1,14 @@
+微信公众号推送天气
+
+视频：https://www.bilibili.com/video/BV1dW4y1b7bN
+
+源码下载：https://wqq2019.lanzouj.com/iGzMz0a62ixa
+
+GitHub:
+https://github.com/
+
+微信开放平台测试号:
+https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+
+和风天气:
+https://console.qweather.com/#/apps?lang=zh
